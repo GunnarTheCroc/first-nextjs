@@ -10,5 +10,3 @@ export default function Counter() {
       </div>
     );
   }
-
- root.render(<><MyComponent /><MyComponent /><MyComponent /></>);
